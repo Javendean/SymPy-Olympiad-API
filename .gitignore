@@ -1,0 +1,9 @@
+# Ignore Jupyter checkpoints, system files, logs
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+AppData/
+*.pyc
